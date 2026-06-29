@@ -1,2 +1,2 @@
-# 20March
-System Commands Week 8 L8.2 Demo
+# 29June2026
+trekking-management-application
